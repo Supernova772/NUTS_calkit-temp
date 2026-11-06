@@ -12,5 +12,5 @@ wid: (mm)
 ft: (mm)
 wt: (mm)
 
-[temp_dist.tiff](https://github.com/user-attachments/files/34497750/temp_dist.tiff)
+![image](https://github.com/user-attachments/files/34497750/temp_dist.tiff)
 
